@@ -1,0 +1,9 @@
+background -     E4F9F5
+big headings -   30E3CA
+small headings - 11999E
+texts -          40514E
+
+
+Body             font-family: 'Montserrat', sans-serif;
+H2 & H3          font-family: 'Merriweather', serif;
+H1 or titles     font-family: 'Sacramento', cursive;
